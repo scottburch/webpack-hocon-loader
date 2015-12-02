@@ -1,0 +1,16 @@
+{
+  "name": "hocon-loader",
+  "version": "1.0.0",
+  "description": "Hocon loader for webpack",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hocon",
+    "webpack",
+    "loader"
+  ],
+  "author": "Scott Burch",
+  "license": "MIT"
+}
