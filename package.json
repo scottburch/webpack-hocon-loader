@@ -1,8 +1,8 @@
 {
   "name": "hocon-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hocon loader for webpack",
-  "main": "loader.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
