@@ -1,6 +1,6 @@
 {
   "name": "hocon-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hocon loader for webpack",
   "main": "loader.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "webpack",
     "loader"
   ],
+  "author": {
+    "name": "Scott Burch",
+    "email": "scott@bulldoginfo.com"
+  },
   "author": "Scott Burch",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottburch/webpack-hocon-loader.git"
+  }
 }
